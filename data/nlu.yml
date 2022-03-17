@@ -16,6 +16,8 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
+    - halo
+    - elo
 
 - intent: goodbye
   examples: |
